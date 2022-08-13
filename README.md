@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm smit sojitra</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hey%2C+I'm+smit+sojitra;A+web+developer;AI%2FML+Enthusiast)](https://git.io/typing-svg)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/smit90294475" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="smit90294475" height="30" width="40" /></a>
