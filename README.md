@@ -1,6 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1177F7&width=435&lines=Hey%2C+I'm+smit+sojitra;A+web+developer;AI%2FML+Enthusiast)](https://git.io/typing-svg)
 <h3 align="left">Connect with me:</h3>
-<a href="https://portfolio3333.netlify.app/" target="blank"><h4 style="color:#0767e0;">Portfolio:</h4></a><a href="https://portfolio3333.netlify.app/" target="blank"><h4 style="color:#0767e0;"> https://portfolio3333.netlify.app/</h4></a>
+<p align="left">
+<a href="https://portfolio3333.netlify.app/" target="blank"><h4 style="color:#0767e0;">Portfolio:</h4></a><a href="https://portfolio3333.netlify.app/" target="blank"><h4 style="color:#0767e0;"> https://portfolio3333.netlify.app/</h4></a></p>
 <p align="left">
 <a href="https://twitter.com/smit90294475" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="smit90294475" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/smit-sojitra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="smit-sojitra" height="30" width="40" /></a>
